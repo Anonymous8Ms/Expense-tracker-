@@ -1,4 +1,4 @@
-# Expense-tracker
+# Expense Tracker
 
 Pure HTML, CSS, and JavaScript expense tracker with modular ES modules, `localStorage` persistence, filters, sorting, recent history, theme toggle, and responsive layouts.
 
@@ -26,3 +26,4 @@ expense-tracker/
     ├── crud.js
     ├── render.js
     └── utils.js
+```
